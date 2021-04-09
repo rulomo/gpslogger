@@ -15,6 +15,7 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with GPSLogger for Android.  If not, see <http://www.gnu.org/licenses/>.
+ *
  */
 
 package com.mendhak.gpslogger;
